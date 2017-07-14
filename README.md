@@ -1,4 +1,4 @@
-# AFN to AFD
+# Minimal AFD
 
 This is a simple tool made for a homework at University that transforms AFD automata to AFD automata equivalent and with minimum number of states.
 
